@@ -40,30 +40,6 @@ The system uses a combination of **React (frontend)**, **Node.js (backend)**, an
 
 ---
 
-## 📁 Project Structure
-
-```
-ai/
-│
-├── backend/
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── App.css
-│   └── package.json
-│
-├── ml_model/
-│   ├── app.py
-│   ├── resume_extract.py
-│   ├── skill_analyzer.py
-│   └── job_match.py
-│
-└── README.md
-```
 
 ---
 
@@ -72,7 +48,7 @@ ai/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone <your-repo-link>
+git clone <(https://github.com/anushka-goswami/ai-resume-analyzer)>
 cd ai
 ```
 
